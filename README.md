@@ -1,3 +1,2 @@
-# Testing
-Testing setting up a repository
-Blah blah blah
+This is a repository with markdown.
+I can edit this easily.
